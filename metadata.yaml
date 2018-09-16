@@ -1,5 +1,5 @@
 _repo: Noorsche-Volksvertellingen_51763
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Terwey, T. (Tijs)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1893
     gutenberg_agent_id: '46546'
     url: http://www.gutenberg.org/2009/agents/46546
+covers:
+- cover_type: archival
+  image_path: 51763-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Asbjørnsen, Peter Christen
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34177
     wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51763#Noorsche-Volksvertellingen
 gutenberg_issued: '2016-04-15'
 gutenberg_type: Text
 identifiers:
