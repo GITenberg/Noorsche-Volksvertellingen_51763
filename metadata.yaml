@@ -1,0 +1,44 @@
+_repo: Noorsche-Volksvertellingen_51763
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Terwey, T. (Tijs)
+    alias: Terwey, Tijs
+    birthdate: 1845
+    deathdate: 1893
+    gutenberg_agent_id: '46546'
+    url: http://www.gutenberg.org/2009/agents/46546
+creator:
+  author:
+    agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjörnsen, P. Chr.
+    - Asbjornsen, Peter Christen
+    - Bonifacius, Clemens
+    - Asbjørnsen, P. C. (Peter Christen)
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+description: ''
+gutenberg_issued: '2016-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51763'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Norway'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: 'De sage in den molen -- Het kroost der Huldren -- Een nacht in Nordmarken
+  -- De koning van den Egeberg -- Van „Fjeld en Saeter” -- De vertellingen van den
+  doodgraver -- Bertha Tuppenhaug''s vertellingen -- Een avond in de keuken van den
+  landheer -- De bewoners van Lunde -- Een ouderwetsche kerstavond -- Een zondagavond
+  op een'' saeter -- Op de vogeljacht in Holleia -- Eene tooverheks -- Ter zee: De
+  aalscholvers van Udröst. De nikkers op het „Zand”.'
+title: Noorsche Volksvertellingen
+url: http://www.gutenberg.org/ebooks/51763
